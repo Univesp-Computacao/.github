@@ -28,3 +28,5 @@ __Objetivo:__ Estruturas básicas para representação de informações: pilhas,
 __Objetivo:__ Introdução a banco de dados (Processamento de Arquivos vs SGBDs, arquitetura de SGBDs), modelagem de dados (conceitual, modelo entidade-
 relacionamento), Linguagem de Consulta e Manipulação de Dados (SQL), Indexação, Bancos de Dados Não Relacionais ou NoSQL (Bancos de Dados Orientados a
 Documentos, Bancos de Dados em Colunas, Bancos de Orientados a Grafos). Mapeamento objeto-relacional (ORM).
+
+![](https://komarev.com/ghpvc/?username=UNIVESP-21)
