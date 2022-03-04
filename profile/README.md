@@ -1,4 +1,4 @@
-# Eixo Computação - UNIVESP - Grupo de estudos
+# UNIVESP - Grupo de estudantes
 
 ## :mortar_board: Sobre
 Grupo criado para compartilhar e estudar códigos e assuntos relacionados aos cursos de Tecnologia da Informação,  Ciência de Dados e Engenharia da Computação. 
