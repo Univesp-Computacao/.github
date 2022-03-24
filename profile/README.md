@@ -9,7 +9,7 @@ A ideia é que no começo os repositórios venham a ser baseados e guiados por d
 
 ## 🚀 Nossos projetos
 
-### [:point_right: Portal de Disciplinas](https://univesp-computacao.github.io/segundo_semestre/)
+### [:point_right: Portal de Disciplinas](https://univesp-computacao.github.io/portal-disciplinas/)
 
 Web page estática com resumos e materiais de disciplinas básicas do eixo de computação. 
 
