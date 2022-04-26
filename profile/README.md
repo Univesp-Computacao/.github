@@ -49,6 +49,12 @@ Bot desenvolvido em python para o telegram que exibe comandos úteis de tecnolog
 [Acesse o repo](https://github.com/Univesp-Computacao/bot_help) e contribua com o projeto.
 
 ---
+### [:point_right: Lista de Benefícios para Estudantes](https://github.com/Univesp-Computacao/lista-beneficios-estudantes)
+
+Lista com serviços gratuitos oferecidos para estudantes.
+
+---
+
 
 
 ![](https://komarev.com/ghpvc/?username=Univesp-Computacao)
