@@ -11,7 +11,7 @@ A ideia é que no começo os repositórios venham a ser baseados e guiados por d
 
 ### [:point_right: Portal de Disciplinas](https://univesp-computacao.github.io/portal-disciplinas/)
 
-Web page estática com resumos e materiais de disciplinas básicas do eixo de computação. 
+Web page estática, desenvolvida com MKDocs, com resumos e materiais de disciplinas básicas do eixo de computação. 
 
 [Acesse o repo](https://github.com/Univesp-Computacao/segundo_semestre) e contribua com o projeto.
 
@@ -20,7 +20,7 @@ Web page estática com resumos e materiais de disciplinas básicas do eixo de co
 
 ### [:point_right: Git - Como Usar?](https://univesp-computacao.github.io/git-como-usar/)
 
-Portal com guias, referências e outros conteúdos sobre Git.
+Portal com guias, referências e outros conteúdos sobre Git. (Desenvolvido com MKDocs)
 
 [Acesse o repo](https://github.com/Univesp-Computacao/git-como-usar) e contribua com o projeto.
 
@@ -28,7 +28,7 @@ Portal com guias, referências e outros conteúdos sobre Git.
 
 ### [:point_right: O Mundo dos Contâineres](https://univesp-computacao.github.io/o_mundo_dos_conteineres/)
 
-Portal com guias, referência e outros conteúdos sobre Docker.
+Portal com guias, referência e outros conteúdos sobre Docker.(Desenvolvido com MKDocs)
 
 [Acesse o repo](https://univesp-computacao.github.io/o_mundo_dos_conteineres/) e contribua com o projeto.
 
@@ -44,7 +44,7 @@ Página única em HTML e CSS com convite para participar do grupo.
 
 ### [:point_right: Bot helper](https://t.me/univespgithub/230)
 
-Bot desenvolvido em python para o telegram que exibe comandos úteis de tecnologias importantes.
+Bot desenvolvido em Python para o Telegram que exibe comandos úteis de tecnologias importantes.
 
 [Acesse o repo](https://github.com/Univesp-Computacao/bot_help) e contribua com o projeto.
 
