@@ -36,7 +36,7 @@ Portal com guias, referência e outros conteúdos sobre Docker.(Desenvolvido com
 
 ### [:point_right: Carta Apresentação](https://univesp-computacao.github.io/carta_apresentacao/)
 
-Página única em HTML e CSS com convite para participar do grupo.
+Página única em HTML utilizando o Tailwindcss para estilização com conteúdo de convite para participar do grupo.
 
 [Acesse o repo](https://github.com/Univesp-Computacao/carta_apresentacao) e contribua com o projeto.
 
